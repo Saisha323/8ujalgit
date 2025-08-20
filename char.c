@@ -10,6 +10,7 @@ int main(){
 
     printf("enter the bit sequence:");
     scanf("%s",bit);
+    lkkkl
 
     for(i=0;i<strlen(bit);i++){
         if(bit[i] == '0')
